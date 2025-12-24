@@ -1,6 +1,8 @@
 # Awesome Cloud ☁️ 
 
 > A curated list of awesome cloud computing resources, services, frameworks, and tools.
+>
+> by [Devtools Directory](https://devtools.directory)
 
 ---
 
